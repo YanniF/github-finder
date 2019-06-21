@@ -1,3 +1,9 @@
+#Github Finder
+Github Finder is an app that allows you to search for users infos and repos.  
+It was built with React and it's part of the course [Modern React Front to Back](https://www.udemy.com/modern-react-front-to-back)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
