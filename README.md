@@ -1,5 +1,7 @@
-#Github Finder
+# Github Finder
 Github Finder is an app that allows you to search for users infos and repos.  
+You can check it out [here](https://yanni-github-finder.netlify.com/)  
+  
 It was built with React and it's part of the course [Modern React Front to Back](https://www.udemy.com/modern-react-front-to-back)
 
 ---
