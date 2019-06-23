@@ -83,7 +83,11 @@ const User = ({ match }) => {
 							{blog && (
 								<Fragment>
 									<strong>Website: </strong>
-									<a href={'http://' + blog} target="_blank" rel="noopener noreferrer">
+									<a
+										href={!blog.includes('http') ? `http://${blog}` : blog}
+										target="_blank"
+										rel="noopener noreferrer"
+									>
 										{blog}
 									</a>
 								</Fragment>
